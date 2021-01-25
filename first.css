@@ -1,0 +1,23 @@
+html, body {
+    margin: 15px 215px;
+    padding: 10px;
+   
+   background-image: linear-gradient(to bottom right, #ff1010, #f30cf3)
+  }
+
+  .img{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color:blue;
+}
+
+
+.img:hover img {
+    opacity: 0.5;
+}
+.img:hover {
+    transform: scale(1.15);
+}

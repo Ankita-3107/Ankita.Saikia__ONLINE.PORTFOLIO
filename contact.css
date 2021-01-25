@@ -1,0 +1,49 @@
+html, body {
+    margin: 15px 215px;
+    padding: 10px;
+   
+   background-image: linear-gradient(to bottom right, #f0f326, #dbf308)
+  }
+
+.menu{
+    font-size: xx-large;
+    font-style: italic;
+}
+.grid{
+  font-size: xx-large;
+  font-style: italic;
+}
+
+
+.link{
+    margin-top: 10px;
+  }
+  
+  .link a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: rgb(26, 11, 243);
+    font-family: fantasy;
+    font-size: 50px;
+    letter-spacing: 15px;
+    padding: 10px 50px;
+    border-radius: 200px;
+  }
+  
+  .footer{
+    margin-left: 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: left;
+  }
+
+  .footerr{
+    margin-left: 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content:left;
+  }
+
+  

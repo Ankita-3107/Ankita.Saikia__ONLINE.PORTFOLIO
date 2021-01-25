@@ -1,0 +1,16 @@
+html, body {
+    margin: 15px 215px;
+    padding: 10px;
+   
+   background-image: linear-gradient(to bottom right, #2f0cf7, #4680ff)
+  }
+
+  .header{
+    background-color:orange;
+    font-size: larger; 
+    font-style: italic;
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+     
+}
